@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/bones"]
+	path = wp-content/themes/bones
+	url = git@github.com:cassy1003/theme-bones.git
